@@ -38,7 +38,7 @@ body {
 .main-content {
     flex-grow: 1;
     padding: 20px;
-    background-image: url('images/img 3.jpg'); /* Add your background image URL here */
+    background-image: url('https://github.com/TomatoTrained/HOTEL-/blob/main/img%204.jpg?raw=true'); /* Add your background image URL here */
     background-size: cover; /* Cover the entire area */
     background-position: center; /* Center the image */
     color: white; /* Text color for better contrast */
